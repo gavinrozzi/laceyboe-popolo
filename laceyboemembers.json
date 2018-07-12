@@ -1,0 +1,188 @@
+{
+  "persons": [
+    {
+      "id": "1",
+      "name": "Robert Klaus",
+      "email": "rklaus@laceyschools.org",
+      "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Robert%20C.%20Klaus%20II.jpg",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rklaus@laceyschools.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Robert%20C.%20Klaus%20II.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Shawn Giordano",
+      "email": "sgiordano@laceyschools.org",
+      "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Shawn%20Giordano.jpg",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sgiordano@laceyschools.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Shawn%20Giordano.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Linda Downing",
+      "email": "ldowning@laceyschools.org",
+      "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Linda%20A.%20Downing.jpg",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ldowning@laceyschools.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Linda%20A.%20Downing.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "David Silletti",
+      "email": "dsilletti@laceyschools.org",
+      "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/David%20Silletti.jpg",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dsilletti@laceyschools.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/David%20Silletti.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Nicholas Mirandi",
+      "email": "nmirandi@laceyschools.org",
+      "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Nicholas-M-.jpg",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nmirandi@laceyschools.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Nicholas-M-.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Tom Deblass",
+      "email": "tdeblass@laceyschools.org",
+      "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Tom%20DeBlass.jpg",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tdeblass@laceyschools.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Tom%20DeBlass.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Robert Riggs",
+      "email": "rriggs@laceyschools.org",
+      "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Robert%20C.%20Riggs.jpg",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rriggs@laceyschools.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Robert%20C.%20Riggs.jpg"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "party/unknown",
+      "name": "unknown",
+      "classification": "party"
+    },
+    {
+      "id": "legislature",
+      "name": "Legislature",
+      "classification": "legislature"
+    }
+  ],
+  "memberships": [
+    {
+      "person_id": "1",
+      "organization_id": "legislature",
+      "role": "member",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "2",
+      "organization_id": "legislature",
+      "role": "member",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "3",
+      "organization_id": "legislature",
+      "role": "member",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "4",
+      "organization_id": "legislature",
+      "role": "member",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "5",
+      "organization_id": "legislature",
+      "role": "member",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "6",
+      "organization_id": "legislature",
+      "role": "member",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "7",
+      "organization_id": "legislature",
+      "role": "member",
+      "on_behalf_of_id": "party/unknown"
+    }
+  ],
+  "posts": [
+
+  ],
+  "events": [
+
+  ],
+  "areas": [
+
+  ]
+}

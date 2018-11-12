@@ -1,7 +1,7 @@
 {
   "persons": [
     {
-      "id": "robert-klaus",
+      "id": "core_person:1",
       "name": "Robert Klaus",
       "email": "rklaus@laceyschools.org",
       "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Robert%20C.%20Klaus%20II.jpg",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "id": "shawn-giordano",
+      "id": "core_person:2",
       "name": "Shawn Giordano",
       "email": "sgiordano@laceyschools.org",
       "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Shawn%20Giordano.jpg",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "id": "linda-downing",
+      "id": "core_person:3",
       "name": "Linda Downing",
       "email": "ldowning@laceyschools.org",
       "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Linda%20A.%20Downing.jpg",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": "david-silletti",
+      "id": "core_person:4",
       "name": "David Silletti",
       "email": "dsilletti@laceyschools.org",
       "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/David%20Silletti.jpg",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "id": "nicholas-mirandi",
+      "id": "core_person:5",
       "name": "Nicholas Mirandi",
       "email": "nmirandi@laceyschools.org",
       "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Nicholas-M-.jpg",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "id": "tom-deblass",
+      "id": "core_person:6",
       "name": "Tom Deblass",
       "email": "tdeblass@laceyschools.org",
       "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Tom%20DeBlass.jpg",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "rob-riggs",
+      "id": "core_person:7",
       "name": "Robert Riggs",
       "email": "rriggs@laceyschools.org",
       "image": "https://nj02202741.schoolwires.net/cms/lib/NJ02202741/Centricity/Domain/17/Robert%20C.%20Riggs.jpg",
